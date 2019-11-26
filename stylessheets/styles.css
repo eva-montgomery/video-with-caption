@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.video-frame > video {
+    width: 100%
+}
+
+.video {
+    position: relative;
+    height: 600px;
+    width: 600px;
+}
+
+.text {
+    position: absolute;
+    color: darkred;
+    font-size: 18px;
+    left: 145px;
+    bottom: 250px;
+  
+
+}
